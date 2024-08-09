@@ -1,6 +1,6 @@
 # InsomniaShell
 
-🖥️ -C0d3cr4f73r-
+🖥️ -n3rdyn3xus-
 
 Usage : 
 
